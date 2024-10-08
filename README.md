@@ -1,11 +1,11 @@
 ## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> It's me Mohamed !
-
+<img align="right" width="370" height="290" src="https://c.tenor.com/Ug6cbVA1ZsMAAAAd/tenor.gif">
 
 
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohamed-saajid-b43777258/)
 
-### I code in
+### 🧑‍💻 I code in
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
@@ -32,14 +32,11 @@
 
 ### 📈 Stats
 [![Leetcode Stats](https://leetcard.jacoblin.cool/MohamedSaajid18?theme=dark&ext=contest)](https://leetcode.com/MohamedSaajid18)
-
-
-
-
-
+![image](https://github.com/MohamedS18/MohamedS18/blob/main/public/skill_rack_profile.png)
 <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedS18&theme=blue-green&show_icons=true&hide_border=true&layout=compact" style="width: 49%;height:180px;">
 <img src="https://github-readme-stats.vercel.app/api?username=MohamedS18&theme=blue-green&show_icons=true&hide_border=true&count_private=true"  style="width: 50%;height:100%;"></div>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedS18&theme=blue-green&hide_border=true" style="width:100%;height:250px">
+
 
 
 
