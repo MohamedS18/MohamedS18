@@ -37,8 +37,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=MohamedS18&theme=blue-green&show_icons=true&hide_border=true&count_private=true"  style="width: 50%;height:100%;"></div>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedS18&theme=blue-green&hide_border=true" style="width:100%;height:250px">
 
-
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MohamedS18&bg_color=090518&color=31ff20&line=00ea06&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!--![MohamedS18's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedS18&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
