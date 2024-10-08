@@ -1,6 +1,7 @@
 ## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> It's me Mohamed !
-<img align="right" width="370" height="290" src="https://c.tenor.com/Ug6cbVA1ZsMAAAAd/tenor.gif">
 
+<!--
+<img align="right" width="370" height="290" src="https://c.tenor.com/Ug6cbVA1ZsMAAAAd/tenor.gif">
 
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohamed-saajid-b43777258/)
@@ -28,24 +29,19 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-
-
 ### 📈 Stats
 <p>.</p>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/MohamedSaajid18?theme=dark&ext=contest" width="70%">
-</p>
-<p align="center">
-  <img src="https://github.com/MohamedS18/MohamedS18/blob/main/public/skill_rack_profile.png" width="80%">
-</p>
-
+<p align="center">  <img src="https://leetcard.jacoblin.cool/MohamedSaajid18?theme=dark&ext=contest" width="70%"> </p>
+<p align="center">  <img src="https://github.com/MohamedS18/MohamedS18/blob/main/public/skill_rack_profile.png" width="80%"> </p>
 
 <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedS18&theme=blue-green&show_icons=true&hide_border=true&layout=compact" style="width: 49%;height:180px;">
 <img src="https://github-readme-stats.vercel.app/api?username=MohamedS18&theme=blue-green&show_icons=true&hide_border=true&count_private=true"  style="width: 50%;height:100%;"></div>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedS18&theme=blue-green&hide_border=true" style="width:100%;height:250px">
 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MohamedS18&bg_color=090518&color=31ff20&line=00ea06&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![](https://visitcount.itsvg.in/api?id=MohamedS18&icon=0&color=0)](https://visitcount.itsvg.in)
 
+-->
 
 <!--![MohamedS18's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedS18&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
 ![MohamedS18's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedS18&theme=blue-green&hide_border=true)
@@ -68,4 +64,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-[![](https://visitcount.itsvg.in/api?id=MohamedS18&icon=0&color=0)](https://visitcount.itsvg.in)
